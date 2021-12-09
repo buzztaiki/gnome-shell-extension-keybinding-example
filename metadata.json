@@ -1,0 +1,9 @@
+{
+  "name": "Keybinding Example",
+  "description": "Keybinding example of gnome-shell extension.",
+  "uuid": "keybinding-example@buzztaiki.github.com",
+  "settings-schema": "org.gnome.shell.extensions.keybinding-example",
+  "shell-version": [
+    "40", "41"
+  ]
+}

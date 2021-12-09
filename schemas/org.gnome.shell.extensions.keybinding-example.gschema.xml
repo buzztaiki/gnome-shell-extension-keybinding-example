@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist>
+  <schema id="org.gnome.shell.extensions.keybinding-example" path="/org/gnome/shell/extensions/keybinding-example/">
+    <key name="keybinding-example-hot-key" type="as">
+      <default><![CDATA[['<Super><Control>h']]]></default>
+      <summary>Hot Key</summary>
+    </key>
+  </schema>
+</schemalist>
